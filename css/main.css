@@ -1,35 +1,40 @@
-.container {
- 	font-family: 'Lato', sans-serif;
- 	color: #666666;
-}
 
-header h1,
-header h4 {
-	font-weight: 300;
-}
 
-header h1 {
+h1 {
 	font-size: 50px;
 }
 
-header h4 {
+h4 {
 	font-size: 25px;
 }
 
+h1,
+h4 {
+	font-weight: 300;
+}
+
+
 hr {
 	height: 2px;
+}
+
+h2 {
+	color: #bcbbbb;
+}
+.container {
+ 	font-family: 'Lato', sans-serif;
+ 	color: #666666;
 }
 
 .logo {
 	width: 100px;
 	margin-top: 15px;
 }
-.portfolio-img {
+
+.port-img {
 	cursor: pointer;
 }
-h2 {
-	color: #bcbbbb;
-}
+
 
 
 
