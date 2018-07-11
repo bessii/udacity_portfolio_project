@@ -23,7 +23,11 @@ h2 {
 }
 .container {
  	font-family: 'Lato', sans-serif;
+<<<<<<< HEAD
  	color: #666;
+=======
+ 	color: #666666;
+>>>>>>> f69003555b121e0245bb89e7f86942293f5a344a
 }
 
 .logo {
@@ -35,6 +39,7 @@ h2 {
 	cursor: pointer;
 }
 
+<<<<<<< HEAD
 img {
 
 	width:100%;
@@ -45,5 +50,8 @@ img {
 p {
 	text-align: center;
 }
+=======
+
+>>>>>>> f69003555b121e0245bb89e7f86942293f5a344a
 
 
